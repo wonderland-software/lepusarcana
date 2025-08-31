@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lepusarcana/static/css/main.ef497ac8.css",
-    "main.js": "/lepusarcana/static/js/main.5b26ec36.js",
-    "static/js/453.e0936e6d.chunk.js": "/lepusarcana/static/js/453.e0936e6d.chunk.js",
-    "static/media/lepusarcana.png": "/lepusarcana/static/media/lepusarcana.6528b5dc069594339c9a.png",
-    "index.html": "/lepusarcana/index.html",
-    "main.ef497ac8.css.map": "/lepusarcana/static/css/main.ef497ac8.css.map",
-    "main.5b26ec36.js.map": "/lepusarcana/static/js/main.5b26ec36.js.map",
-    "453.e0936e6d.chunk.js.map": "/lepusarcana/static/js/453.e0936e6d.chunk.js.map"
+    "main.css": "/static/css/main.ef497ac8.css",
+    "main.js": "/static/js/main.f65cd785.js",
+    "static/js/453.e0936e6d.chunk.js": "/static/js/453.e0936e6d.chunk.js",
+    "static/media/lepusarcana.png": "/static/media/lepusarcana.6528b5dc069594339c9a.png",
+    "index.html": "/index.html",
+    "main.ef497ac8.css.map": "/static/css/main.ef497ac8.css.map",
+    "main.f65cd785.js.map": "/static/js/main.f65cd785.js.map",
+    "453.e0936e6d.chunk.js.map": "/static/js/453.e0936e6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef497ac8.css",
-    "static/js/main.5b26ec36.js"
+    "static/js/main.f65cd785.js"
   ]
 }
